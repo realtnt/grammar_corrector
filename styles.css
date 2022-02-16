@@ -87,8 +87,8 @@ h1 {
     font-size: 50px;
     text-align: center;    
     color: white;
-    padding: 0 2rem;
-    margin-bottom: 1rem;
+    padding: 0 2rem 2rem 2rem;
+    border-bottom: 0.1px solid lightgray;
 }
 
 p {
@@ -107,10 +107,6 @@ p {
     margin: 2rem 2rem;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
     border-radius: 25px;
-}
-
-hr {
-    margin: 0 2rem 1rem 2rem;
 }
 
 button {
